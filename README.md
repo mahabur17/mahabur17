@@ -47,4 +47,4 @@ Skills:  PYTHON/ JS / HTML / CSS
 
 <br/>
 
-## Connect with me
+
