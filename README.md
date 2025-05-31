@@ -17,11 +17,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/mahabur17)
 
-- 
-
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
-
-- 📫 How to reach me **programmerharun@gmail.com**
 
 - 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/mahabur17)
   
