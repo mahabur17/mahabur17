@@ -19,7 +19,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/mahabur17)
+- 📄 All About Me:[https://lnk.bio/mahabur17].
   
 
 
