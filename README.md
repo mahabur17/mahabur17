@@ -17,7 +17,7 @@ Skills:  PYTHON/ JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/mahabur17)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML,CSS,JS**
 
 - 📄 All About Me:[https://lnk.bio/mahabur17].
   
