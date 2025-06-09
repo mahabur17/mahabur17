@@ -1,4 +1,4 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am mahabur17](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm MD.MAHABUR RAHMAN</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mahabur17&color=red)
 
-Skills:  PYTHON/ JS / HTML / CSS
+Skills: JS / HTML / CSS
 
 </div>
 
@@ -19,7 +19,7 @@ Skills:  PYTHON/ JS / HTML / CSS
 
 - 💬 Ask me about **HTML,CSS,JS**
 
-- 📄 All About Me:[https://lnk.bio/mahabur17].
+
   
 
 
